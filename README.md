@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vikashkumar576
 - 👀 I’m interested in developing new websites,webapps,etc.
+- 👀 I’ve learnt html,css, javascript,bootstrap,jquery.
 - 🌱 I’m currently learning software engneeering (html5).
 - 💞️ I’m looking to collaborate on javascript,tailwindcss.
 - 📫 How to reach me vikashkumar576git@gmail.com.
